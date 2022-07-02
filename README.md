@@ -6,11 +6,11 @@
 ```
 .
 ├── ...
-├── Component                             # Components folder
-│   ├── Component.helper.tsx              # Logic, Interface, Props of the component
-│   ├── Component.tsx                     # React Component
-│   ├── index.ts                          # Used solely for the purpose to export * to its parent directory
-│   └── styles.ts (*)                     # (*) Used when using styled-components in the project 
+├── Component                           # Components folder
+│   ├── Component.helper.tsx            # Logic, Interface, Props of the component
+│   ├── Component.tsx                   # React Component
+│   ├── index.ts                        # Used solely for the purpose to export * to its parent directory
+│   └── styles.ts (*)                   # (*) Used when using styled-components in the project 
 └── ...
 ```
 
