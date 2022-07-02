@@ -6,7 +6,7 @@
 ```
 .
 ├── ...
-├── Component                           # Components folder
+├── Component                           # Component's Name
 │   ├── Component.helper.tsx            # Logic, Interface, Props of the component
 │   ├── Component.tsx                   # React Component
 │   ├── index.ts                        # Used solely for the purpose to export * to its parent directory
