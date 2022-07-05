@@ -11,6 +11,7 @@
 │   ├── Component.tsx                   # React Component
 │   ├── index.ts                        # Used solely for the purpose to export * to its parent directory
 │   └── styles.ts (*)                   # (*) Used when using styled-components in the project 
+├── index.ts                            # Used solely for the purpose to export * to its parent directory
 └── ...
 ```
 
